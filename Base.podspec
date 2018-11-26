@@ -9,7 +9,7 @@
   s.homepage = 'https://github.com/dearmiku/MN_Live'
   s.source = { :git => '', :tag => s.version.to_s }
 
-  s.source_files   = "source", "source/**/*.*"
+  s.source_files   = "source", "Base/Base/source/**/*.*"
 
   s.swift_version = '4.2' 
 
